@@ -20,6 +20,9 @@ Subjects Covered:
 In this project, I choose one of Udacity's curated datasets and investigate it using NumPy and pandas.
 I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. 
 
+### Project 2: Investigate the medical appointments dataset
+In this project, I investigate the dataset which collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. In particular, I am interested in finding what factors are important for us to know in order to predict if a patient will show up for their scheduled appointment. Additionally, I analyze these factors to see how much they affect the result.
+
 
 
 ## Part 2 -Practical Statistics 
